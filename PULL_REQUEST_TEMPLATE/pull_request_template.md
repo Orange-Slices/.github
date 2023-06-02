@@ -8,8 +8,8 @@ Fixes # (issue)
 
 Please delete options that are not relevant.
 
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature
+- [ ] Bug fix
 - [ ] Infrastructure Change
 
 # Checklist:
@@ -17,4 +17,3 @@ Please delete options that are not relevant.
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] New and existing unit tests pass locally with my changes
