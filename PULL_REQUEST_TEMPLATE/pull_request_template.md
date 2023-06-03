@@ -9,6 +9,7 @@ Fixes # (issue)
 Please delete options that are not relevant.
 
 - [ ] New feature
+- [ ] Database Migration
 - [ ] Bug fix
 - [ ] Infrastructure Change
 
